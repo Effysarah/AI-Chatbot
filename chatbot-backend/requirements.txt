@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+sqlalchemy
+passlib
+bcrypt
+jwt
+python-dotenv
+psycopg2-binary
+smtplib
